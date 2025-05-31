@@ -53,4 +53,3 @@ Web siteleri saldırılara karşı savunmasız olabilir.
 
 Bu tür bir analiz, site yöneticilerine nereden ve nasıl saldırı yapıldığını göstererek önlem almalarını sağlar.
 
-Proje, temel seviyede böyle bir güvenlik analizi yapmayı kolaylaştırır.
