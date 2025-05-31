@@ -1,4 +1,4 @@
-# Basit Web Log Analiz Aracı
+# Web Log Analiz Aracı
 
 Bu Python projesi, basit bir `access.log` dosyasını analiz ederek SQL injection, XSS gibi saldırıları tespit etmeyi amaçlar.
 
